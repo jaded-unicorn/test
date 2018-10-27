@@ -1,4 +1,4 @@
-package first.test;
+package firstTest;
 
 public class Application {
     
