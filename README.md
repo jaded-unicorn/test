@@ -6,3 +6,6 @@ https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.ht
 
 Maven Commands
 https://maven.apache.org/guides/introduction/introduction-to-the-lifecycle.html
+
+Maven Info
+https://maven.apache.org/guides/getting-started/maven-in-five-minutes.html
