@@ -9,6 +9,6 @@ public class application {
     // method main(): ALWAYS the APPLICATION entry point
     public static void main (String[] args) {
     	System.out.println ("Starting Application");
-	application app = new application();
+	//application app = new application();
     }
 }

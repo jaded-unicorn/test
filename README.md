@@ -9,3 +9,10 @@ https://maven.apache.org/guides/introduction/introduction-to-the-lifecycle.html
 
 Maven Info
 https://maven.apache.org/guides/getting-started/maven-in-five-minutes.html
+
+API Info
+https://github.com/toddmotto/public-apis
+https://any-api.com/
+https://blog.cloudrail.com/api-tutorial-for-beginners/
+https://apilist.fun/
+https://market.mashape.com/spoonacular/recipe-food-nutrition
