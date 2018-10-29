@@ -10,6 +10,9 @@ https://maven.apache.org/guides/introduction/introduction-to-the-lifecycle.html
 Maven Info
 https://maven.apache.org/guides/getting-started/maven-in-five-minutes.html
 
+Swagger Info
+https://idratherbewriting.com/learnapidoc/pubapis_swagger.html
+
 API Info
 https://github.com/toddmotto/public-apis
 
