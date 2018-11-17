@@ -3,3 +3,4 @@
 2018-10-27 17:40:39,630 [Worker-11] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B mvn install
 2018-10-27 17:42:59,406 [Worker-0] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\krist\git\test\test
 2018-10-27 17:42:59,407 [Worker-0] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B mvn install
+2018-11-17 14:12:58,368 [Worker-5] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
